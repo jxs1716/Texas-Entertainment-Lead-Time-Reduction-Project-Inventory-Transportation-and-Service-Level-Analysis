@@ -1,0 +1,2 @@
+# Texas-Entertainment-Lead-Time-Reduction-Project-Inventory-Transportation-and-Service-Level-Analysis
+Analyzed inventory management practices for electronics distributor Texas Entertainment facing service challenges. Evaluated current replenishment policies, logistics, and a costlier direct trucking option to reduce lead times, quantifying tradeoffs and recommending optimized inventory, transportation, and service level solutions.
